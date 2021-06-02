@@ -3,7 +3,7 @@ import scrapy
 
 class AmazonReviewsSpider(scrapy.Spider):
     # Spider name
-    name = "amazon_reviews"
+    name = "amazon_reviews1"
     # Domain names to scrape
     allowed_domains = ["amazon.in"]
     # Base URL for the MacBook air reviews
